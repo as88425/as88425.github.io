@@ -560,3 +560,15 @@ footer a:focus {
 		}
 	}
 }
+@media screen and (min-width:0) and (max-width:480px) {
+	#home .menuheader a, #home .menuheader div {
+		margin-right: 10px;
+		font-size: 13px;
+	}
+	.modal-inside .parentdiv {
+		flex-flow: column;
+		.formbox {
+			margin-top: 20px;
+		}
+	}
+}
