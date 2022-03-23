@@ -1,0 +1,69 @@
+{
+    "basic_info": {
+      "name": "Abhay Singh",
+      "titles": [ "Front-end Developer Expert", "Complete Front-end Solutions", "Dev Team lead", "Hybrid Mobile App Developer" ],
+      "social": [
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/abhay-singh-html-developer-expert-2b686158",
+          "class": "fab fa-linkedin"
+        },
+        
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/singhh.abhay/",
+          "class": "fab fa-instagram"
+        },
+        {
+          "name": "Whatsapp",
+          "url": "https://wa.me/+919455701513",
+          "class": "fab fa-whatsapp"
+        }
+      ],
+      "image": "profile.png"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "Angular",
+          "class": "devicon-angularjs-plain",
+          "level": "80"
+        },
+        {
+          "name": "ReactJs",
+          "class": "devicon-react-plain",
+          "level": "65"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Sass",
+          "class": "devicon-sass-original",
+          "level": "75"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        }
+      ]
+    }
+  }

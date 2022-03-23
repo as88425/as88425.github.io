@@ -1,0 +1,251 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": [
+      {
+        "val": "I'm Abhay Singh. Frontend Developer with 9+ years of professional experiences in Web Front-end and User Interface Development."
+      },
+      {
+        "val": "I'm working with newest front-end frameworks like Angular, React and Ionic(Hybrid mobile app development)."
+      },
+      {
+        "val": "Strong experience with Cross Browser Compatibility issues and Optimization for web, including CSS Sprites and best practices"
+      },
+      {
+        "val": "I enjoy developing new featured websites and try to learn new technology/language out of it."
+      }
+    ],
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Safer",
+      "description": "Safer is a complete pipeline tool to empower companies to proactively identify, remove and report child sexual abuse material (CSAM) from their platforms. We were hired to build their product site.",
+      "images": [
+        "images/portfolio/safer1.png",
+        "images/portfolio/safer2.png"
+      ],
+      "url": "https://safer.io/",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "Html5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "Css3"
+        }
+      ]
+    },
+    {
+      "title": "Tweaky",
+      "description": "Tweaky offers one-off and subscription based website tweaks for folks that run their business on platforms like Wordpress, Shopify, and Squarespace, who need on-demand help from tech experts to get things where they want them.",
+      "images": [
+        "images/portfolio/tweaky1.png",
+        "images/portfolio/tweaky2.png"
+      ],
+      "url": "https://tweaky.io/",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "Html5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "Css3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        }
+      ]
+    },
+    {
+      "title": "Glicrx",
+      "description": "The Glicrx web and mobile apps allow customers to search for the lowest price on prescription medications in their locale.",
+      "images": [
+        "images/portfolio/glicrx1.png",
+        "images/portfolio/glicrx2.png"
+      ],
+      "url": "https://glicrx.com/",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "Html5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "Css3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "Kalvie",
+      "description": "Kalvie is a learning management system built to provide affordable online tutoring and structured academic courses in developing nations, while providing additional income to teachers.",
+      "images": [
+        "images/portfolio/kalvie1.png",
+        "images/portfolio/kalvie2.png"
+      ],
+      "url": "https://www.kalvie.com/",
+      "technologies": [
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "Html5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "Css3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        }
+        
+      ]
+    },
+    {
+      "title": "AppyHigh",
+      "description": "AppyHigh is all about making a small difference in the daily lives of millions..in simple, entertaining and elating ways!",
+      "images": [
+        "images/portfolio/appyhigh1.png",
+        "images/portfolio/appyhigh2.png"
+      ],
+      "url": "https://appyhigh.com/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "ReactJs"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "Html5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "Css3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        }
+        
+      ]
+    },
+    {
+      "title": "Hyderooftop",
+      "description": "Hyde Rooftop is located in the heart of Ringwood on Maroondah Highway with ample parking at the rear via Seymour street.",
+      "images": [
+        "images/portfolio/hyderooftop1.png",
+        "images/portfolio/hyderooftop2.png"
+      ],
+      "url": "http://hyderooftop.com.au/",
+      "technologies": [
+        {
+          "class": "devicon-wordpress-plain",
+          "name": "Wordpress"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "Html5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "Css3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        }
+        
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "PEGS(AKA 23bytes)",
+      "title": "Front-End Developer Lead",
+      "years": "08.2014 - present",
+      "mainTech": [
+        "Angular", "React Js", "Html5", "Ionic"
+      ],
+      "technologies": [
+        "REST API Implementation",
+        "RxJS",
+        "JavaScript",
+        "Bootstrap",
+        "Angular",
+        "React js",
+        "Angular Material",
+        "Jquey",
+        "Wordpress",
+        "Ghost",
+        "Squarespace",
+        "Css3"
+      ]
+    },
+    {
+      "company": "Unisys Infosolutions Pvt. Ltd.",
+      "title": "Html Developer",
+      "years": "01.2013 - 08.2014",
+      "mainTech": [
+        "Html5"
+      ],
+      "technologies": [
+        "Html5",
+        "Css3",
+        "Javascript",
+        "Jquey",
+        "Wordpress"
+      ]
+    }
+  ]
+}
