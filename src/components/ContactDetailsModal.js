@@ -22,30 +22,7 @@ class ContactDetailsModal extends Component {
           /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/
         );
       };
-      let body = {
-        "personalizations": [
-          {
-            "to": [
-              {
-                "email": 'abhay@23byt.es',
-                "name": name
-              }
-            ],
-            "dynamic_template_data": {
-              "first_name": name,
-              "email": '',
-              "message": message
-            }
-          }
-        ],
-        "from": {
-          "email": "development@glicrx.com",
-          "name": "GlicRx"
-        },
-        "template_id": "d-81161b55115745c6a4e23f8c0c92bba2"
-      }
       if (name != '' && email != '' && message != '' && validateEmail(email)) {
-        debugger;
         this.setState({ submittext: "Submitting..." })
         const templateParams = {
           from_name: name,

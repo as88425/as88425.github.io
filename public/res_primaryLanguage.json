@@ -51,6 +51,37 @@
       ]
     },
     {
+      "title": "AppyHigh",
+      "description": "AppyHigh is all about making a small difference in the daily lives of millions..in simple, entertaining and elating ways!",
+      "images": [
+        "images/portfolio/appyhigh1.png",
+        "images/portfolio/appyhigh2.png"
+      ],
+      "url": "https://appyhigh.com/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "ReactJs"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "Html5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "Css3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        }
+      ]
+    },
+    {
       "title": "Tweaky",
       "description": "Tweaky offers one-off and subscription based website tweaks for folks that run their business on platforms like Wordpress, Shopify, and Squarespace, who need on-demand help from tech experts to get things where they want them.",
       "images": [
@@ -141,41 +172,9 @@
           "class": "devicon-typescript-plain",
           "name": "TypeScript"
         }
-        
       ]
     },
-    {
-      "title": "AppyHigh",
-      "description": "AppyHigh is all about making a small difference in the daily lives of millions..in simple, entertaining and elating ways!",
-      "images": [
-        "images/portfolio/appyhigh1.png",
-        "images/portfolio/appyhigh2.png"
-      ],
-      "url": "https://appyhigh.com/",
-      "technologies": [
-        {
-          "class": "devicon-react-original",
-          "name": "ReactJs"
-        },
-        {
-          "class": "devicon-html5-plain",
-          "name": "Html5"
-        },
-        {
-          "class": "devicon-css3-plain",
-          "name": "Css3"
-        },
-        {
-          "class": "devicon-javascript-plain",
-          "name": "Javascript"
-        },
-        {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        }
-        
-      ]
-    },
+    
     {
       "title": "Hyderooftop",
       "description": "Hyde Rooftop is located in the heart of Ringwood on Maroondah Highway with ample parking at the rear via Seymour street.",
@@ -205,7 +204,99 @@
           "class": "devicon-typescript-plain",
           "name": "TypeScript"
         }
-        
+      ]
+    },
+    {
+      "title": "Urban Soccer Initiative",
+      "description": "The Urban Soccer Initiative (USI) wanted to make a difference, and we were excited to be a part of it. The premise was to build a simple site to educate different stakeholders on how to start soccer projects for the urban youth in the United States. They needed a way to identify different stakeholders, collect their information, and provide them a toolkit to get started.",
+      "images": [
+        "images/portfolio/usi1.png",
+        "images/portfolio/usi2.png"
+      ],
+      "url": "http://urbansoccer.org/",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "Html5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "Css3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        }
+      ]
+    },
+    {
+      "title": "RxHacker",
+      "description": "The RxHacker web and mobile apps allow customers to search for the lowest price on prescription medications in their locale.",
+      "images": [
+        "images/portfolio/rxhacker1.png",
+        "images/portfolio/rxhacker2.png"
+      ],
+      "url": "https://rxhacker.com/",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "Html5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "Css3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "Backoffice (RxHacker Pro)",
+      "description": "Helping people save money has never been so profitable",
+      "images": [
+        "images/portfolio/backoffice1.png",
+        "images/portfolio/backoffice2.png"
+      ],
+      "url": "https://backoffice.rxhacker.com/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "ReactJs"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "Html5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "Css3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        }
       ]
     }
   ],
@@ -215,7 +306,10 @@
       "title": "Front-End Developer Lead",
       "years": "08.2014 - present",
       "mainTech": [
-        "Angular", "React Js", "Html5", "Ionic"
+        "Angular",
+        "React Js",
+        "Html5",
+        "Ionic"
       ],
       "technologies": [
         "REST API Implementation",
