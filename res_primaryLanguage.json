@@ -51,6 +51,37 @@
       ]
     },
     {
+      "title": "AppyHigh",
+      "description": "AppyHigh is all about making a small difference in the daily lives of millions..in simple, entertaining and elating ways!",
+      "images": [
+        "images/portfolio/appyhigh1.png",
+        "images/portfolio/appyhigh2.png"
+      ],
+      "url": "https://appyhigh.com/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "ReactJs"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "Html5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "Css3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        }
+      ]
+    },
+    {
       "title": "Tweaky",
       "description": "Tweaky offers one-off and subscription based website tweaks for folks that run their business on platforms like Wordpress, Shopify, and Squarespace, who need on-demand help from tech experts to get things where they want them.",
       "images": [
@@ -143,37 +174,7 @@
         }
       ]
     },
-    {
-      "title": "AppyHigh",
-      "description": "AppyHigh is all about making a small difference in the daily lives of millions..in simple, entertaining and elating ways!",
-      "images": [
-        "images/portfolio/appyhigh1.png",
-        "images/portfolio/appyhigh2.png"
-      ],
-      "url": "https://appyhigh.com/",
-      "technologies": [
-        {
-          "class": "devicon-react-original",
-          "name": "ReactJs"
-        },
-        {
-          "class": "devicon-html5-plain",
-          "name": "Html5"
-        },
-        {
-          "class": "devicon-css3-plain",
-          "name": "Css3"
-        },
-        {
-          "class": "devicon-javascript-plain",
-          "name": "Javascript"
-        },
-        {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        }
-      ]
-    },
+    
     {
       "title": "Hyderooftop",
       "description": "Hyde Rooftop is located in the heart of Ringwood on Maroondah Highway with ample parking at the rear via Seymour street.",
