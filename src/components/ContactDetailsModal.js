@@ -62,21 +62,21 @@ class ContactDetailsModal extends Component {
         <div className="col-md-12">
           <div className="parentdiv">
             <div className="col-md-5">
-              <h4>Contact Details</h4>
+              <h4>SO DO YOU LIKE MY STUFF?</h4>
               <div className="addressbar">
-                <i className="fas fa-home"></i>
-                Katariya, Basti, U.P (272128)
+                {/* <i className="fas fa-home"></i> */}
+                Seen something you like or got some comments or feedback? Let's talk.
               </div>
-              <div className="addressbar mno">
+              {/* <div className="addressbar mno">
                 <a href="tel:+918882787575"><i className="fas fa-phone-alt"></i>+918882787575</a>
                 <a href="https://wa.me/+919455701513" target="_blank" rel="noopener noreferrer"><i className="fab fa-whatsapp"></i>+919455701513</a>
               </div>
               <div className="addressbar">
                 <a href="mailto:as88425@gmail.com?subject=Enquiry Email From Profile" target="_blank" rel="noopener noreferrer"><i className="far fa-envelope"></i>as88425@gmail.com</a>
-              </div>
+              </div> */}
             </div>
             <div className="col-md-7 formbox">
-              <h4>Enquire Now</h4>
+              <h4>Fill the details</h4>
               <form action="#" id="contactform" onSubmit={e => e.preventDefault()}>
                 <input type="text" value={this.state.fullname} name="from_name" onChange={(e) => updateval(e.target)} required placeholder="Enter Your Name" />
                 <input type="email" value={this.state.emailid} name="email" onChange={(e) => updateval(e.target)} id="" required placeholder="Enter Your Email" />

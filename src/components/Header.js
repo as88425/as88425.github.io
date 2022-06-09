@@ -50,7 +50,7 @@ class Header extends Component {
         <div className="menuheader">
           <a href="tel:+918882787575"><i className="fas fa-phone-alt"></i>+918882787575</a>
           <a href="https://wa.me/+919455701513" target="_blank"  rel="noopener noreferrer"><i className="fab fa-whatsapp"></i>+919455701513</a>
-          <div className="contactubutton" onClick={() => detailsModalShow('')}>Contact Us</div>
+          <div className="contactubutton" onClick={() => detailsModalShow('')}>Hire Me</div>
         </div>
         <div className="row aligner" style={{ height: '100%' }}>
           <div className="col-md-12">
