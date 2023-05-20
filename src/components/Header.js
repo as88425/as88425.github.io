@@ -48,8 +48,8 @@ class Header extends Component {
     return (
       <header id="home" style={{ height: window.innerHeight - 140, display: 'block' }}>
         <div className="menuheader">
-          <a href="tel:+918882787575"><i className="fas fa-phone-alt"></i>+918882787575</a>
-          <a href="https://wa.me/+919455701513" target="_blank"  rel="noopener noreferrer"><i className="fab fa-whatsapp"></i>+919455701513</a>
+          <a href="tel:+918882787575" className="call"><i className="fas fa-phone-alt"></i>+918882787575</a>
+          <a href="https://wa.me/+919455701513" target="_blank"  rel="noopener noreferrer" className="sendmsg"><i className="fab fa-whatsapp"></i>+919455701513</a>
           <div className="contactubutton" onClick={() => detailsModalShow('')}>Hire Me</div>
         </div>
         <div className="row aligner" style={{ height: '100%' }}>

@@ -24,6 +24,33 @@
   },
   "projects": [
     {
+      "title": "Candddy",
+      "description": "Candddy is a software company. Which provides complete software development.",
+      "images": [
+        "images/portfolio/candddy1.jpg",
+        "images/portfolio/candddy2.jpg"
+      ],
+      "url": "https://candddy.com/",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "Html5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "Css3"
+        }
+      ]
+    },
+    {
       "title": "Safer",
       "description": "Safer is a complete pipeline tool to empower companies to proactively identify, remove and report child sexual abuse material (CSAM) from their platforms. We were hired to build their product site.",
       "images": [

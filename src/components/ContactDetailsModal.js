@@ -78,9 +78,9 @@ class ContactDetailsModal extends Component {
             <div className="col-md-7 formbox">
               <h4>Fill the details</h4>
               <form action="#" id="contactform" onSubmit={e => e.preventDefault()}>
-                <input type="text" value={this.state.fullname} name="from_name" onChange={(e) => updateval(e.target)} required placeholder="Enter Your Name" />
-                <input type="email" value={this.state.emailid} name="email" onChange={(e) => updateval(e.target)} id="" required placeholder="Enter Your Email" />
-                <textarea value={this.state.message} name="message" onChange={(e) => updateval(e.target)} required placeholder="Enter Your Message"></textarea>
+                <input id="name" type="text" value={this.state.fullname} name="from_name" onChange={(e) => updateval(e.target)} required placeholder="Enter Your Name" />
+                <input id="email" type="email" value={this.state.emailid} name="email" onChange={(e) => updateval(e.target)}  required placeholder="Enter Your Email" />
+                <textarea id="message" value={this.state.message} name="message" onChange={(e) => updateval(e.target)} required placeholder="Enter Your Message"></textarea>
                 <input type="submit" value={this.state.submittext} onClick={() => submitform(this.state.fullname, this.state.emailid, this.state.message)} />
               </form>
             </div>
